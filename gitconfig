@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tommy.downmusic@gmail.com
+	name = Tommy Down
